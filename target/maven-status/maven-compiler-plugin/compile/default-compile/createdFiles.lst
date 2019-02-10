@@ -1,0 +1,5 @@
+com\manage\controller\HomeController.class
+com\manage\controller\CustomerController.class
+com\manage\App.class
+com\manage\model\Customer.class
+com\manage\controller\CustomerStub.class
